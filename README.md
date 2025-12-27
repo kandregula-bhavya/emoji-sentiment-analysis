@@ -45,7 +45,7 @@ Sentiment distribution
 
 Positive vs negative emojis
 
-Top 10 most used emojis
+Top 7 most used emojis
 
 Emoji placement patterns
 
@@ -58,6 +58,8 @@ Python
 Pandas
 
 Matplotlib
+
+
 
 📘 What I Learned
 
